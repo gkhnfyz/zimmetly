@@ -35,6 +35,7 @@
 
 Zimmetly için canlı demo, kurulum ve fiyat bilgisi almak isterseniz:
 
+- 📄 **Ürün sayfası:** [tumabilisim.com/urun/zimmetly](https://tumabilisim.com/urun/zimmetly)
 - 🌐 **Teklif formu:** [tumabilisim.com/iletisim](https://tumabilisim.com/iletisim?urun=Zimmetly)
 - 💬 **WhatsApp:** [+90 533 432 15 12](https://wa.me/905334321512?text=Merhaba%2C%20Zimmetly%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum.)
 - ✉️ **E-posta:** [info@tumabilisim.com](mailto:info@tumabilisim.com?subject=Zimmetly%20hakk%C4%B1nda)
@@ -50,7 +51,7 @@ Zimmetly için canlı demo, kurulum ve fiyat bilgisi almak isterseniz:
 
 **Zimmetly** — Multi-tenant asset & assignment management SaaS: QR-tagged assets, signed check-out/return, license and contract tracking, maintenance work orders, bookings and Microsoft 365 integration.
 
-Live product: https://zimmetly.com/tanitim.php · Contact: [info@tumabilisim.com](mailto:info@tumabilisim.com) · WhatsApp: [+90 533 432 15 12](https://wa.me/905334321512)
+Live product: https://zimmetly.com/tanitim.php · Product page: https://tumabilisim.com/urun/zimmetly · Contact: [info@tumabilisim.com](mailto:info@tumabilisim.com) · WhatsApp: [+90 533 432 15 12](https://wa.me/905334321512)
 
 </details>
 
